@@ -61,15 +61,6 @@ OrdemTech/
 ├── bancodedados/        # Script SQL do banco
 └── Index.html           # Página inicial do site
 ```
-
-## 📸 Telas
-
-_Adicione aqui prints do sistema desktop, do portal web e do site._
-
-<!-- Exemplo:
-![Login do sistema](imagens/login.png)
--->
-
 ## ▶️ Como executar
 
 **Pré-requisitos:** MySQL, JDK 21 e Eclipse (para o sistema desktop).
